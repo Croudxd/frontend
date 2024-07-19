@@ -1,1 +1,1 @@
-# frontend
+# Pantry front end
